@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">cinema_project03_11_2018</string>
+    <string name="Kiem_duyet">Kiểm duyệt</string>
+    <string name="Khoi_chieu">Khởi chiếu</string>
+    <string name="The_loai">Thể loại</string>
+    <string name="Dao_dien">Đạo diễn</string>
+    <string name="Dien_vien">Diễn viên</string>
+    <string name="Thoi_luong">Thời lượng</string>
+    <string name="Ngon_ngu">Ngôn ngữ</string>
+    <string name="newsoffer">Tin mới &amp; Ưu đãi</string>
+    <string name="Dat_ve">Đặt vé</string>
+    <string name="id4DX">4DX</string>
+    <string name="Dolby_Atmos">Dolby Atmos</string>
+    <string name="IMAX">IMAX</string>
+    <string name="GOLD_CLASS">GOLD CLASS</string>
+    <string name="L_amour">L&#39;amour</string>
+    <string name="STARIUM">STARIUM</string>
+    <string name="PREMIUM_CINEMA">PREMIUM CINEMA</string>
+    <string name="ScreenX">ScreenX</string>
+    <string name="invisible1">invisible</string>
+    <string name="invisible2">invisible</string>
+    <string name="invisible3">invisible</string>
+    <string name="invisible4">invisible</string>
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "947655236334",
+    "firebase_url": "https://cinema15112018.firebaseio.com",
+    "project_id": "cinema15112018",
+    "storage_bucket": "cinema15112018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947655236334:android:052fd8d919844824",
+        "android_client_info": {
+          "package_name": "com.github.eragontuan.cinema_project03_11_2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947655236334-nfaopsj8a22evrmriv5rp4tnr7n83cmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9vMq5sneL53z2rcWR02__qlsbGbfarTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
